@@ -1,0 +1,27 @@
+{
+  "name": "sun-sun-sun",
+  "version": "1.0.0",
+  "description": "Make a sun buddy",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krambuhl/sun-sun-sun.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krambuhl/sun-sun-sun/issues"
+  },
+  "homepage": "https://github.com/krambuhl/sun-sun-sun#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "next": "^7.0.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
